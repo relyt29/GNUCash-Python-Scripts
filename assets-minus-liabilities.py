@@ -10,12 +10,12 @@ import gnucash
 from datetime import date
 from collections import OrderedDict
 
-__author__ = "f41c0r"
-__copyright__ = "Copyright 2016, f41c0r"
-__credits__ = ["f41c0r"]
+__author__ = "relyt29"
+__copyright__ = "Copyright 2016, relyt29"
+__credits__ = ["relyt29"]
 __license__ = "GPL"
-__version__ = "1.0.1"
-__maintainer__ = "f41c0r"
+__version__ = "1.0.2"
+__maintainer__ = "relyt29"
 __email__ = "f41c0r@hack.ink"
 __status__ = "Production"
 
